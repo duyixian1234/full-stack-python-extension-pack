@@ -1,0 +1,37 @@
+{
+    "name": "yapep",
+    "displayName": "Yet Another Python Extension Pack",
+    "description": "Polular Visual Studio Code extensions for Python developer",
+    "version": "0.0.1",
+    "publisher": "yixian",
+	"author": {
+		"name": "Yixian Du",
+		"email": "duyixian1234@qq.com"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/duyixian1234/yapep"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-python.python",
+        "donjayamanne.jupyter",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "piotrpalarz.vscode-gitignore-generator",
+        "formulahendry.code-runner",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "ms-vsliveshare.vsliveshare",
+        "shan.code-settings-sync",
+        "alefragnani.project-manager",
+        "robertohuertasm.vscode-icons",
+        "davidanson.vscode-markdownlint"
+    ]
+}
