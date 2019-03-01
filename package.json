@@ -22,7 +22,6 @@
     ],
     "extensionPack": [
         "ms-python.python",
-        "donjayamanne.jupyter",
         "VisualStudioExptTeam.vscodeintellicode",
         "piotrpalarz.vscode-gitignore-generator",
         "formulahendry.code-runner",
