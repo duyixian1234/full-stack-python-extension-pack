@@ -2,7 +2,7 @@
     "name": "yapep",
     "displayName": "Yet Another Python Extension Pack",
     "description": "Polular Visual Studio Code extensions for Python developer",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "yixian",
 	"author": {
 		"name": "Yixian Du",
