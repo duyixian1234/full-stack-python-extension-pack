@@ -11,3 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.2]
 
 - Remove extension "donjayamanne.jupyter"
+
+## [0.0.3]
+
+- Add some more extensions

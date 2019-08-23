@@ -2,7 +2,7 @@
     "name": "yapep",
     "displayName": "Yet Another Python Extension Pack",
     "description": "Polular Visual Studio Code extensions for Python developer",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "yixian",
 	"author": {
 		"name": "Yixian Du",
@@ -26,11 +26,15 @@
         "piotrpalarz.vscode-gitignore-generator",
         "formulahendry.code-runner",
         "eamodio.gitlens",
-        "donjayamanne.githistory",
         "ms-vsliveshare.vsliveshare",
         "shan.code-settings-sync",
         "alefragnani.project-manager",
         "robertohuertasm.vscode-icons",
-        "davidanson.vscode-markdownlint"
+        "davidanson.vscode-markdownlint",
+        "mhutchie.git-graph",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "hbenl.vscode-test-explorer",
+        "ms-azuretools.vscode-cosmosdb",
+        "littlefoxteam.vscode-python-test-adapter"
     ]
 }
