@@ -2,16 +2,16 @@
     "name": "yapep",
     "displayName": "Yet Another Python Extension Pack",
     "description": "Polular Visual Studio Code extensions for Python developer",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "publisher": "yixian",
-	"author": {
-		"name": "Yixian Du",
-		"email": "duyixian1234@qq.com"
-	},
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/duyixian1234/yapep"
+    "author": {
+        "name": "Yixian Du",
+        "email": "duyixian1234@qq.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/duyixian1234/yapep"
     },
     "icon": "icon.png",
     "engines": {
@@ -21,20 +21,22 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "ms-python.python",
-        "VisualStudioExptTeam.vscodeintellicode",
-        "piotrpalarz.vscode-gitignore-generator",
-        "formulahendry.code-runner",
-        "eamodio.gitlens",
-        "ms-vsliveshare.vsliveshare",
-        "shan.code-settings-sync",
         "alefragnani.project-manager",
-        "robertohuertasm.vscode-icons",
-        "davidanson.vscode-markdownlint",
-        "mhutchie.git-graph",
-        "ms-vscode-remote.vscode-remote-extensionpack",
+        "docsmsft.docs-authoring-pack",
+        "eamodio.gitlens",
+        "formulahendry.code-runner",
         "hbenl.vscode-test-explorer",
+        "littlefoxteam.vscode-python-test-adapter",
+        "mhutchie.git-graph",
         "ms-azuretools.vscode-cosmosdb",
-        "littlefoxteam.vscode-python-test-adapter"
+        "ms-python.python",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vsliveshare.vsliveshare",
+        "piotrpalarz.vscode-gitignore-generator",
+        "robertohuertasm.vscode-icons",
+        "shan.code-settings-sync",
+        "tabnine.tabnine-vscode",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "wasteamaccount.webtemplatestudio-dev-nightly"
     ]
 }
