@@ -15,3 +15,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.3]
 
 - Add some more extensions
+
+## [0.2.0]
+
+- Add some more extensions and remove some extensions which don't work well
